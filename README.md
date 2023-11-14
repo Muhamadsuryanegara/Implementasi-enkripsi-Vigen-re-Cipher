@@ -65,6 +65,7 @@ Menutup statement dan koneksi ke database setelah selesai melakukan operasi quer
 
 Berikut tampilan halaman register:
 
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/cf340138-ac7d-4786-b3f4-3385b1caa5b2)
 
 
 
@@ -77,6 +78,7 @@ Berikut tampilan halaman register:
 
 daftar berhasil maka pada database password akan langsung terekripsi XRQWKMPXTST  berikut tampilan pada databasenya : 
 
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/dffb589f-254c-4a89-9ee0-7a2ad5f0e207)
 
 
 
@@ -90,6 +92,8 @@ Untuk membuktikan bahwa password terseut sudah terenkripsi vignere maka bisa kit
 menggunakan website https://cryptii.com/ berikut hasil setelelah di cek :
 
 
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/c46bae0b-b737-4480-b433-a141eef5cad1)
+
 
 
 	
@@ -97,7 +101,8 @@ menggunakan website https://cryptii.com/ berikut hasil setelelah di cek :
 
 Kita daftar terlebih dahulu register berikut tampilanya :
 
-![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/de62daa2-13bd-47e7-95e6-0f6853279a87)
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/240a5e9a-ec03-46a8-877e-65a8b28da8bd)
+
 
 
 
@@ -112,11 +117,14 @@ Kita daftar terlebih dahulu register berikut tampilanya :
 Namun Jika Login terdapat  kesamaan username atau sudah digunakan, maka login tidak berhasil (Error).
 
 
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/7df148ab-3d2a-4ea2-89a1-96f94880bda5)
+
 
 
 Jika pentaftaran berhasill dilakukan maka user akan di arahkan ke halaman login berikut :
 
 
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/91c9a5a0-4a8c-4bac-815f-1c169d33633e)
 
 
 
@@ -124,8 +132,10 @@ Jika pentaftaran berhasill dilakukan maka user akan di arahkan ke halaman login 
 
 
 
-Berikut source code dari program tersebut :
+
+#Berikut source code dari program tersebut :
 Register html	
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -163,6 +173,7 @@ Login html
     </form>
 </body>
 </html>
+```
 
 
 Untuk lebih lengkapnya untuk sorce code :
