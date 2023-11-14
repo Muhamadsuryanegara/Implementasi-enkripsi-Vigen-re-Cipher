@@ -12,3 +12,5 @@ Proses pembuatan
 Vigenère Cipher adalah suatu metode enkripsi klasik yang menggunakan polialfabetik substitution cipher, yaitu penggantian setiap karakter plainteks dengan karakter yang berbeda berdasarkan suatu kunci.
 Langkah-langkah pembuatan Vigenère Cipher:
 Ini adalah halaman program saya :
+
+![image](https://github.com/Muhamadsuryanegara/Implementasi-enkripsi-Vigen-re-Cipher/assets/92678339/564722f7-eeb4-4289-b8a0-b7491d62e879)
