@@ -17,5 +17,5 @@ Ini adalah halaman program saya :
 
 Key yang digunakan pada project ini yaitu “Pelita”
 
-/ Enkripsi password dengan Vigenere Cipher
+/ Enkripsi password dengan Vigenere Cipher (atau enkripsi sesuai kebutuhan)
 $encryptedPassword = vigenereEncrypt($password, "PELITA");
