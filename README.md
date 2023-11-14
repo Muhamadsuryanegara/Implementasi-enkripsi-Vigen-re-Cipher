@@ -61,6 +61,7 @@ Menutup koneksi ke database setelah operasi query selesai.Menyiapkan dan menjala
 $conn->close();
 ?>
 Menutup statement dan koneksi ke database setelah selesai melakukan operasi query.
+```
 
 Berikut tampilan halaman register:
 
